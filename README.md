@@ -80,9 +80,8 @@ Logs are maintained according to academic Major Project guidelines.
 - REST APIs
 - Microservices Architecture
 - Event-based Communication
-- Database:  PostgreSQL 
-
-*(Update this section according to your actual implementation stack.)*
+- Database:  PostgreSQL
+- ORM: Sequelize
 
 ---
 
@@ -98,10 +97,10 @@ Logs are maintained according to academic Major Project guidelines.
 
 ## 👨‍💻 Author
 
-**Name:** Naman Tomar 
-**Roll No.:** 221030303
-**University:** Jaypee University of Information Technology, Solan
-**Department:** Computer Science & Engineering  
+- **Name:** Naman Tomar 
+- **Roll No.:** 221030303
+- **University:** Jaypee University of Information Technology, Solan
+- **Department:** Computer Science & Engineering  
 
 ---
 
